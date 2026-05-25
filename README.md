@@ -1,5 +1,3 @@
-<img width="918" height="543" alt="440778551-a8e0be67-bf92-4928-a5a0-943cd690d7c0" src="https://github.com/user-attachments/assets/26abacc4-9a04-4532-9368-a7c5c29d783c" />
-<img width="918" height="543" alt="440778551-a8e0be67-bf92-4928-a5a0-943cd690d7c0" src="https://github.com/user-attachments/assets/939b1fc8-df13-4a68-8cf6-6af50a5418b0" />
 # Series Queues with infinite capacity - Open Jackson Network
 
 ## Aim :
